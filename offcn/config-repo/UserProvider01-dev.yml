@@ -18,3 +18,4 @@ eureka:
     service-url:
       defaultZone: http://localhost:10086/eureka,http://localhost:10087/eureka
 version: UserProvider001-old-update
+show-sql: true
